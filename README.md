@@ -38,7 +38,6 @@ Hi! I'm a Full Stack Developer, always learning. I love taking apart complex pro
 -->
 
 **☁️ Cloud & Infrastructure**
-
 <br/>
 
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -50,13 +49,11 @@ Hi! I'm a Full Stack Developer, always learning. I love taking apart complex pro
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
--->
-
 </td>
 <td valign="top" width="50%">
+-->
 
 **💻 Languages & Frameworks**
-
 <br/>
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -72,6 +69,7 @@ Hi! I'm a Full Stack Developer, always learning. I love taking apart complex pro
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
+<br/>
 <!--
 <br/>
 **🤖 AI & Agentic Workflows**
@@ -81,8 +79,14 @@ Hi! I'm a Full Stack Developer, always learning. I love taking apart complex pro
 <br/>
 -->
 
-**🛠️ Other Tools**
+**🧪 Testing / QA**
+<br/>
 
+[![TestNG](https://img.shields.io/badge/TestNG-%23FF7900.svg?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![JUnit](https://img.shields.io/badge/Junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
+**🛠️ Other Tools**
 <br/>
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
