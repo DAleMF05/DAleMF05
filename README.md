@@ -1,5 +1,10 @@
-## Hi, I'm Alejandro 👋
+# Hi, I'm Alejandro 👋
 ## I'm 25 years old developer from Argentina.
+### 👨‍💻 About Me
+
+Hi! I'm a Full Stack Developer, always learning. I love taking apart complex problems and translating them into clean, scalable, and efficient code. When I'm not optimizing queries in **SQL** or setting up services in **Node.js**, you'll find me exploring systems architecture or configuring environments in **Linux**.
+
+---
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Alejandro Machado | 💻 Full Stack Developer | 🛸 BS-AS , ARG <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
